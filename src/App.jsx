@@ -24,15 +24,13 @@ import "./styles.css";
  * If you don't have one of the social sites listed, leave it as an empty string.
  */
 const siteProps = {
-  name: "Alexandrie Grenier",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
-  medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  name: "Swayam Sidnale",
+  title: "Computer Science Student | AI Engineer",
+  email: "swayamsidnale10@gmail.com",
+  gitHub: "https://github.com/SidnaleSwayam",        // not provided in resume
+  
+  linkedIn: "https://www.linkedin.com/in/swayam-sidnale-9a3071353",      // LinkedIn URL not specified in resume
+ 
 };
 
 const primaryColor = "#4E567E";

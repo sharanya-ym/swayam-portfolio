@@ -31,28 +31,29 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "FitAura – Fitness at Your Fingertips 🏋️‍♂️",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A MERN stack health and fitness platform providing personalized meal plans and workout routines based on user goals. Integrated external APIs and an XGBoost model for symptom-based health predictions.",
+    url: "https://github.com/SidnaleSwayam/Fitaura.git", // replace with actual repo link
+  },// replace with actual repo link
+  
+  {
+    title: "EmotiVerse – Social Media Sentiment Analysis 💬",
+    description:
+      "Built a BERT-based sentiment analysis system to classify social media comments as positive, negative, or neutral. Developed an interactive dashboard using Flask and Streamlit for real-time insights.",
+    url: "https://github.com/SidnaleSwayam/EmotiVerse-Unveiling-emotions-on-social-media-platform.git", // replace with actual repo link
   },
   {
-    title: "Web Development for Beginners",
+    title: "BookAView – Stadium Seat Booking System 🎟️",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A full-stack MERN application for stadium seat booking with real-time seat selection, secure Razorpay payment integration, and responsive UI using React and React Router.",
+    url: "https://github.com/SidnaleSwayam/BookAView---Stadium-seat-management.git", // replace with actual repo link
   },
   {
-    title: "My Resume Site",
+    title: "Twitter Clone – Clone Wars Hackathon 🐦",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Developed a Twitter-like social media application during the Clone Wars Hackathon with real-time features, user authentication, and responsive design.",
+
   },
 ];
 
